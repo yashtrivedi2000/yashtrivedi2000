@@ -38,9 +38,9 @@ Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
 
 <a href="https://github.com/yashtrivedi2000/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtrivedi2000&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtrivedi2000&repo=Dapp-Chain&theme=material-palenight" />
 </a>
 
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtrivedi2000&repo=yashtrivedi2000.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtrivedi2000&repo=Competitive-Coding&theme=material-palenight" />
 </a>
