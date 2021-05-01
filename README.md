@@ -28,19 +28,19 @@ Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
 
 <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<a href="https://github.com/yashtrivedi2000/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtrivedi2000&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<a href="#">
+  <img align="center" src="https://github-readme-stats.yashtrivedi2000.vercel.app/api?username=yashtrivedi2000&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yash's github stats" />
 </a>
-<a href="https://github.com/yashtrivedi2000/github-readme-stats">
+<a href="#">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtrivedi2000&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/yashtrivedi2000/github-readme-stats">
+<a href="https://github.com/yashtrivedi2000/Dapp-Chain">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtrivedi2000&repo=Dapp-Chain&theme=material-palenight" />
-</a>
-
+</a>    
+<a href="https://github.com/yashtrivedi2000/Competitive-Coding">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashtrivedi2000&repo=Competitive-Coding&theme=material-palenight" />
 </a>
