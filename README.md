@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yash!]() 👋
 
 <a href="https://www.linkedin.com/in/yash-trivedi2000/">
-  <img align="left" alt="Yash Trivedi | LinkedIn"  width="41px" src="https://raw.githubusercontent.com/yashtrivedi2000/yashtrivedi2000/master/assets/linkedin.svg" />
+  <img align="left" alt="Yash Trivedi | LinkedIn"  width="61px" src="https://raw.githubusercontent.com/yashtrivedi2000/yashtrivedi2000/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/TrivediYash12">
